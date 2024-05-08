@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/gconbat7/nodejs-msql#readme",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "express": "^4.19.2",
     "express-handlebars": "^7.1.2",
     "mysql2": "^3.9.7",
